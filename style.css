@@ -15,7 +15,7 @@ body {
 
 .container {
   max-width: 400px;
-  margin-inline: auto; // permet de centrer le container
+  margin-inline: auto; /* permet de centrer le container*/
 }
 .input-group {
   display: flex;
